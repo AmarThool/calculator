@@ -14,6 +14,8 @@ If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work,
 
 
 ## AUTHOR
+#Amar Thool
+#Deveoped in 2020
 
 ### Base Application
 
